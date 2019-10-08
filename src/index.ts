@@ -18,10 +18,10 @@ console.log(number.toPrecision(6));
 
 
 // 錢錢大於一個值，叫乾爹
-let money = 40000;
+let money = 4000000;
 let limit = 500000; // 限制值
 
-if (money > 30000) {
+if (money > limit) {
 
     console.log('乾爹');
 
